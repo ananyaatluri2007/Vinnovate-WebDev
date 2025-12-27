@@ -1,4 +1,4 @@
-University Management System (VTOP Backend)
+University Management System 
 A centralized backend engine for a university management portal, providing specialized interfaces and data access for students, faculty, and parents. The system is designed to bridge the communication gap between the institution and home while managing core academic operations.
 
 User Roles & Access
